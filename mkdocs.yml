@@ -1,1 +1,11 @@
 site_name: imgur Python API client
+nav:
+  - Home: index.md
+  - Configuration object: config.md
+  - Authorize: authorize.md
+  - Account: account.md
+  - Comment: comment.md
+  - Album: album.md
+  - Image: image.md
+  - Gallery: gallery.md
+theme: readthedocs

@@ -13,7 +13,7 @@ Each client must register their application and receive the `client_id` and `cli
 
 More info about the API usage [https://apidocs.imgur.com/?version=latest#intro](https://apidocs.imgur.com/?version=latest#intro).
 
-# API client
+## API client methods
 
 * [Configuration object](config.md)
 * [Authorize](authorize.md)
